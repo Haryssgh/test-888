@@ -1,5 +1,10 @@
 #!/bin/bash
 
+trap '' INT
+
+stty intr ^C susp ^Z
+
+
 ls 
 cd ~
 
