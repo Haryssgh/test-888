@@ -2,8 +2,7 @@
 
 trap '' INT
 
-stty intr ^C susp ^Z
-
+stty intr ^C susp ^Zmain
 
 ls 
 cd ~
